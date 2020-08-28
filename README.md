@@ -4,7 +4,6 @@ Heroku account belt
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
 [![Version](https://img.shields.io/npm/v/hbelt.svg)](https://npmjs.org/package/hbelt)
-[![Downloads/week](https://img.shields.io/npm/dw/hbelt.svg)](https://npmjs.org/package/hbelt)
 [![License](https://img.shields.io/npm/l/hbelt.svg)](https://github.com/rqbik/hbelt/blob/master/package.json)
 
 - [Installation](#installation)

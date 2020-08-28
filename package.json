@@ -2,7 +2,10 @@
   "name": "hbelt",
   "description": "Heroku account belt",
   "version": "1.0.0",
-  "author": "rqbik @rqbik",
+  "author": {
+    "name": "rqbik",
+    "email": "rqbikz@gmail.com"
+  },
   "bugs": "https://github.com/rqbik/hbelt/issues",
   "dependencies": {
     "@heroku-cli/color": "^1.1.14",
